@@ -1,7 +1,6 @@
 {
   "name": "mern-assignment",
   "version": "1.0.0",
-  "type": "module",
   "description": "Assignment 1",
   "main": "checkLeapYear.js",
   "scripts": {
